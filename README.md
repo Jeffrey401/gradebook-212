@@ -19,7 +19,7 @@ We implemented each class to represent each grading portion. For example, we hav
 4. Enter user inputs, and a percentage point total and letter grade will be displayed to the standard output :)
 
 
-## Important features of the Algorithm
+## Important features of the Algorithm 
 
 In this algorithm we used a `Class`, which is a user-defined data type, which holds its own data members accessed by creating instances of that class. We used object oriented concept `encapsulation` where we bundled data members and functions together in a place to protect data using `getters` and `setters`, and also to make our code cleaner and eaier to read. We also implemented it to help control the modification of our data members. Another feature used in our algorithm was a default `constructor` which is a method implemented so that we can automatically call it when an object of our class is declared. Our constructor has the same name as the declaring class and initalizies the data members. Our constructor was properly written to ensure object is left in a valid state. 
 

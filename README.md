@@ -79,7 +79,7 @@ Print percentage points and letter grade </br>
  ```
 
 ## Example Execution
-![Execution Screenshot](https://github.com/xyemi/CSC-212/blob/main/mec_project/exampleexec.png)
+![Execution Screenshot](https://github.com/Jeffrey401/gradebook-212/blob/main/exampleexec.png)
 
 # Why was development like this important for our group?
 

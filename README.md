@@ -8,7 +8,7 @@
 
 ## Brief Summary of the project
 
-This is a gradebook project to interpret CSC 212 grades into a grade that represents a student's current standing in the course. In this project, we used all the grading set-up used in CSC 212: 5% for the labs, 35% for final project, 50% for the assignments, 10% for the final exam and 4% extra credit for the mini challenge. This project was implemented by using the required structures: a `class` and `vectors`. 
+This is a gradebook project to interpret CSC 212 grades into a grade that represents a student's current standing in the course. In this project, all the grading set-up used in CSC 212: 5% for the labs, 35% for final project, 50% for the assignments, 10% for the final exam and 4% extra credit for the mini challenge. This project was implemented by using the required structures: a `class` and `vectors`. 
 > The implementation files are: `grade.cpp` which contains the implementation of the class and member definitions, `main.cpp` which contains object declarations and function calls, and `grade.h`, a header file that contains pre-defined class member functions.
 We implemented each class to represent each grading portion. For example, we have a function each to calculate grades, exam, the final project and the labs.
 
@@ -21,7 +21,7 @@ We implemented each class to represent each grading portion. For example, we hav
 
 ## Important features of the Algorithm 
 
-In this algorithm we used a `Class`, which is a user-defined data type, which holds its own data members accessed by creating instances of that class. We used object oriented concept `encapsulation` where we bundled data members and functions together in a place to protect data using `getters` and `setters`, and also to make our code cleaner and eaier to read. We also implemented it to help control the modification of our data members. Another feature used in our algorithm was a default `constructor` which is a method implemented so that we can automatically call it when an object of our class is declared. Our constructor has the same name as the declaring class and initalizies the data members. Our constructor was properly written to ensure object is left in a valid state. 
+In this algorithm  `Class` was used  which is a user-defined data type, which holds its own data members accessed by creating instances of that class. In this project, an  object oriented concept - `encapsulation` was used which is the bundling of  data members and functions together in a place to protect data using `getters` and `setters`, and also to make code cleaner and eaier to read and also implemented it to help control the modification of the data members. Another feature used in this algorithm was a default `constructor` which is a method implemented to automatically call it when an object of the class is declared. The constructor has the same name as the declaring class and initalizies the data members. The constructor was properly written to ensure object is left in a valid state. 
 
 > MUST BE NICE: This algorithm checks for invalid inputs and requests an input re-entry in such a case. This algorithm also stores the user inputs in variables that are ***private*** data members of the class i.e, a student's grades must only be accessed within the class.
 
